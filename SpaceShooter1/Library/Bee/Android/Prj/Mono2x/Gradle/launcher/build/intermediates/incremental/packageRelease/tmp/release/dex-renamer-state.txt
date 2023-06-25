@@ -1,0 +1,4 @@
+#Sat Jun 24 20:09:47 YEKT 2023
+base.0=C\:\\UnityProjects\\SpaceShooter1\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
